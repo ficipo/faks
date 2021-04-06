@@ -1,0 +1,24 @@
+{
+       
+            "firstName": "Ivan",
+            "lastName": "Peric",
+            "oib": "8986163734"
+        },
+        {
+          
+            "firstName": "Pero",
+            "lastName": "Ivic",
+            "oib": "887899124"
+        },
+        {
+       
+            "firstName": "Ana",
+            "lastName": "Maric",
+            "oib": "676323989"
+        },
+        {
+         
+            "firstName": "Matija",
+            "lastName": "Horvat",
+            "oib": "575373666"
+        }

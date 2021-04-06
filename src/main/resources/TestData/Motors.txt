@@ -1,0 +1,48 @@
+	{
+            "name": "1.6 TDI",
+            "power": 90,
+            "torque": 40,
+            "type": null
+        },
+        {
+           
+            "name": "2.0 TDI",
+            "power": 105,
+            "torque": 55,
+            "type": null
+        },
+        {
+        
+            "name": "1.6 TSI",
+            "power": 90,
+            "torque": 50,
+            "type": null
+        },
+        {
+         
+            "name": "Mercedes OM651",
+            "power": 155,
+            "torque": 400,
+            "type": null
+        },
+        {
+         
+            "name": "Mercedes M104",
+            "power": 210,
+            "torque": 280,
+            "type": null
+        },
+        {
+          
+            "name": "BMW S65",
+            "power": 415,
+            "torque": 400,
+            "type": null
+        },
+        {
+         
+            "name": "BMW N63",
+            "power": 400,
+            "torque": 600,
+            "type": null
+        }
